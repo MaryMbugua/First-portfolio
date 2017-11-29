@@ -1,2 +1,19 @@
-body{background-image: url("https://images.unsplash.com/photo-1489343511429-5482f78c15cf?auto=format&fit=crop&w=1332&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");}
-.jumbotron{background-color: lightgrey;}
+body{background-image: url("https://images.unsplash.com/photo-1486162928267-e6274cb3106f?auto=format&fit=crop&w=1534&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
+     }
+.jumbotron{background-color:#0000;}
+
+
+
+/* colour for text */
+p{color: #fff;}
+.display-3{color: #fff;}
+h3{color: #fff;}
+.btn{color: #fff;}
+
+/* styles for the navbar */
+
+.headingme{font-size: 60px;
+            color: #fff;
+            padding-left:200px;
+        }
+.navbar-dark{background-color: transparent;}
