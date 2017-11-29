@@ -1,8 +1,7 @@
+/* website background */
 body{background-image: url("https://images.unsplash.com/photo-1486162928267-e6274cb3106f?auto=format&fit=crop&w=1534&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D");
      }
 .jumbotron{background-color:#0000;}
-
-
 
 /* colour for text */
 p{color: #fff;}
@@ -11,9 +10,8 @@ h3{color: #fff;}
 .btn{color: #fff;}
 
 /* styles for the navbar */
-
 .headingme{font-size: 60px;
             color: #fff;
             padding-left:200px;
-        }
+           }
 .navbar-dark{background-color: transparent;}
